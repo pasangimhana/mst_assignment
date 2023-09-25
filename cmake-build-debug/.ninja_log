@@ -1,0 +1,13 @@
+# ninja log v5
+2	1507	1695575198101494961	CMakeFiles/MST.dir/adjMatrix.cpp.o	ad5ab75f615e078c
+2	1023	1695586894304275568	CMakeFiles/MST.dir/graphFactory/adjMatrixFactory.cpp.o	bfa528fafff08560
+0	29	1695621610007368695	build.ninja	7bb49e853c5b02ff
+1	1462	1695575198057496657	CMakeFiles/MST.dir/adjList.cpp.o	f51ffb1a1cf392c
+2	888	1695586974067910879	CMakeFiles/MST.dir/main.cpp.o	df68628bedf37ace
+1	1038	1695583652478936438	CMakeFiles/MST.dir/analyze.cpp.o	78a3955b97cdb2ed
+1	316	1695578944057662254	CMakeFiles/MST.dir/helpers/disjoint.cpp.o	de511f2952485a9e
+1	1220	1695586974395924820	CMakeFiles/MST.dir/graphFactory/adjList.cpp.o	c36c434effd8d812
+2	747	1695586973923904753	CMakeFiles/MST.dir/graphFactory/adjListFactory.cpp.o	d1e20502e93786b2
+2	359	1695575196953539235	CMakeFiles/MST.dir/disjoint.cpp.o	98ae73d64a33812b
+1	1292	1695586974467927880	CMakeFiles/MST.dir/graphFactory/adjMatrix.cpp.o	6488c2155cddb2ff
+1292	1423	1695586974599933490	MST	67ce42052eec39c

@@ -1,0 +1,3 @@
+/home/phaser/campus_work/year_03/graph_theory/mst_assignment/cmake-build-debug/CMakeFiles/MST.dir
+/home/phaser/campus_work/year_03/graph_theory/mst_assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/phaser/campus_work/year_03/graph_theory/mst_assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
